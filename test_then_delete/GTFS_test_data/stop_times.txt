@@ -1,0 +1,15 @@
+trip_id,arrival_time,departure_time,stop_id,stop_sequence
+trip01,00:00:00,00:00:00,route01_stop01,1
+trip01,00:00:10,00:00:10,route01_stop02,2
+trip01,00:00:20,00:00:20,route01_stop03,3
+trip01,00:00:30,00:00:30,route01_stop04,4
+trip01,00:00:40,00:00:40,route01_stop05,5
+trip01,00:00:50,00:00:50,route01_stop06,6
+trip01,00:01:00,00:01:00,route01_stop07,7
+trip01,00:01:10,00:01:10,route01_stop08,8
+trip01,00:01:20,00:01:20,route01_stop09,9
+trip01_weekend,00:00:00,00:00:00,route01_stop01,1
+trip01_weekend,00:00:20,00:00:20,route01_stop03,3
+trip01_weekend,00:00:40,00:00:40,route01_stop05,5
+trip01_weekend,00:01:00,00:01:00,route01_stop07,7
+trip01_weekend,00:01:20,00:01:20,route01_stop09,9
